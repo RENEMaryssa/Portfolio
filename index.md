@@ -5,7 +5,7 @@ Mon portfolio pour l'épreuve E5
 <a href="Veille">Ma veille technologique</a>
                             
 <!-- Lien en markdown vers la page Veille.md -->
-[Ma veille technologique](Veille.md)
+<!--[Ma veille technologique](Veille.md)-->
 
 <a href="Stage">Mon stage de première année</a>
 
