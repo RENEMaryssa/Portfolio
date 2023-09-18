@@ -4,10 +4,10 @@ description: Mon parcours de professionnalisation
 #on commente cette ligne pour désactiver le thème "tactile"
 #theme: jekyll-theme-tactile
 remote_theme: "mistakes/minimal-mistakes"
- plugins:
-      - jekyll-paginate
-      - jekyll-sitemap
-      - jekyll-gist
-      - jekyll-feed
-      - jemoji
-      - jekyll-include-cache
+plugins:
+     - jekyll-paginate
+     - jekyll-sitemap
+     - jekyll-gist
+     - jekyll-feed
+     - jemoji
+     - jekyll-include-cache
